@@ -1,0 +1,17 @@
+{
+  "name": "genpark-lmax-disruptor-ring-buffer-skill",
+  "version": "1.0.0",
+  "description": "LMAX Disruptor high-throughput circular ring buffer architecture with sequence barriers, cursor publisher, and zero-allocation event batching.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "lmax-disruptor",
+    "ring-buffer",
+    "high-throughput",
+    "low-latency",
+    "sequencing"
+  ],
+  "dependencies": []
+}
